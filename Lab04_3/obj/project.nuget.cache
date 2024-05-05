@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bcpuE/aX4C9H2lxtQFtH/ewwY+/WabxVQI+IqGu5UU5tsBxzN5P2ZJHNf8+iN2gzt0B13o6oXehBQGHevGztdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Huu Tai\\Desktop\\Lab4_124\\Lab04_3\\Lab04_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huu Tai\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512",
+    "C:\\Users\\Huu Tai\\.nuget\\packages\\microsoft.web.webview2\\1.0.2526-prerelease\\microsoft.web.webview2.1.0.2526-prerelease.nupkg.sha512",
+    "C:\\Users\\Huu Tai\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

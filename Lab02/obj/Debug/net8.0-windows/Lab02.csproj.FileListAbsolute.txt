@@ -1,0 +1,46 @@
+D:\22521278-NguyenHuuTai\Lab02\bin\Debug\net8.0-windows\Lab02.exe
+D:\22521278-NguyenHuuTai\Lab02\bin\Debug\net8.0-windows\Lab02.deps.json
+D:\22521278-NguyenHuuTai\Lab02\bin\Debug\net8.0-windows\Lab02.runtimeconfig.json
+D:\22521278-NguyenHuuTai\Lab02\bin\Debug\net8.0-windows\Lab02.dll
+D:\22521278-NguyenHuuTai\Lab02\bin\Debug\net8.0-windows\Lab02.pdb
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.cBai01.resources
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.cBai02.resources
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.cBai04.resources
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.cBai05.resources
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.cBai06.resources
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.cBai07.resources
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.cDanhSach.resources
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.csproj.GenerateResource.cache
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.AssemblyInfoInputs.cache
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.AssemblyInfo.cs
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.csproj.CoreCompileInputs.cache
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.sourcelink.json
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.dll
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\refint\Lab02.dll
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.pdb
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.genruntimeconfig.cache
+D:\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\ref\Lab02.dll
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\bin\Debug\net8.0-windows\Lab02.exe
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\bin\Debug\net8.0-windows\Lab02.deps.json
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\bin\Debug\net8.0-windows\Lab02.runtimeconfig.json
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\bin\Debug\net8.0-windows\Lab02.dll
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\bin\Debug\net8.0-windows\Lab02.pdb
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.cBai01.resources
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.cBai02.resources
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.cBai04.resources
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.cBai05.resources
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.cBai06.resources
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.cBai07.resources
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.cDanhSach.resources
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.csproj.GenerateResource.cache
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.AssemblyInfoInputs.cache
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.AssemblyInfo.cs
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.sourcelink.json
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.dll
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\refint\Lab02.dll
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.pdb
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\Lab02.genruntimeconfig.cache
+C:\Users\Huu Tai\Desktop\22521278-NguyenHuuTai\Lab02\obj\Debug\net8.0-windows\ref\Lab02.dll

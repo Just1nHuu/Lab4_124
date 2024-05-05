@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|c:\\users\\admin\\source\\repos\\lab4_124\\lab04_4\\mycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|solutionrelative:lab04_4\\mycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|c:\\users\\admin\\source\\repos\\lab4_124\\lab04_4\\chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|solutionrelative:lab04_4\\chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|c:\\users\\admin\\source\\repos\\lab4_124\\lab04_4\\chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|solutionrelative:lab04_4\\chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|c:\\users\\admin\\source\\repos\\lab4_124\\lab04_4\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|solutionrelative:lab04_4\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|c:\\users\\admin\\source\\repos\\lab4_124\\lab04_4\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|solutionrelative:lab04_4\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|c:\\users\\admin\\source\\repos\\lab4_124\\lab04_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|solutionrelative:lab04_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|c:\\users\\admin\\source\\repos\\lab4_124\\lab04_4\\cxulithanhtoandatve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|solutionrelative:lab04_4\\cxulithanhtoandatve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|c:\\users\\admin\\source\\repos\\lab4_124\\lab04_4\\mycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2216044-D801-4764-A906-AF32E08ADDD1}|Lab04_4\\Lab04_4.csproj|solutionrelative:lab04_4\\mycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChiTiet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\ChiTiet.cs",
+              "RelativeDocumentMoniker": "Lab04_4\\ChiTiet.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\ChiTiet.cs*",
+              "RelativeToolTip": "Lab04_4\\ChiTiet.cs*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAawCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:17:58.11Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -22,6 +68,93 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyControl.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\MyControl.cs",
+              "RelativeDocumentMoniker": "Lab04_4\\MyControl.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\MyControl.cs",
+              "RelativeToolTip": "Lab04_4\\MyControl.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:14:46.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\MyControl.cs",
+              "RelativeDocumentMoniker": "Lab04_4\\MyControl.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\MyControl.cs [Design]",
+              "RelativeToolTip": "Lab04_4\\MyControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:14:42.24Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrangChu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\TrangChu.cs",
+              "RelativeDocumentMoniker": "Lab04_4\\TrangChu.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\TrangChu.cs",
+              "RelativeToolTip": "Lab04_4\\TrangChu.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAIAwwD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:12:08.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab04_4\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\Program.cs",
+              "RelativeToolTip": "Lab04_4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:59:24.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\TrangChu.cs",
+              "RelativeDocumentMoniker": "Lab04_4\\TrangChu.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\TrangChu.cs [Design]",
+              "RelativeToolTip": "Lab04_4\\TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:59:51.661Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cXuLiThanhToanDatVe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\cXuLiThanhToanDatVe.cs",
+              "RelativeDocumentMoniker": "Lab04_4\\cXuLiThanhToanDatVe.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\cXuLiThanhToanDatVe.cs [Design]",
+              "RelativeToolTip": "Lab04_4\\cXuLiThanhToanDatVe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:59:45.285Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChiTiet.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\ChiTiet.cs",
+              "RelativeDocumentMoniker": "Lab04_4\\ChiTiet.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab04_4\\ChiTiet.cs [Design]*",
+              "RelativeToolTip": "Lab04_4\\ChiTiet.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:59:30.01Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },

@@ -59,3 +59,34 @@ C:\Users\Huu Tai\Desktop\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\refint\Lab04_
 C:\Users\Huu Tai\Desktop\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.pdb
 C:\Users\Huu Tai\Desktop\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.genruntimeconfig.cache
 C:\Users\Huu Tai\Desktop\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\ref\Lab04_4.dll
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\bin\Debug\net8.0-windows\Lab04_4.exe
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\bin\Debug\net8.0-windows\Lab04_4.deps.json
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\bin\Debug\net8.0-windows\Lab04_4.runtimeconfig.json
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\bin\Debug\net8.0-windows\Lab04_4.dll
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\bin\Debug\net8.0-windows\Lab04_4.pdb
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\bin\Debug\net8.0-windows\HtmlAgilityPack.dll
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.ChiTiet.resources
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.cXuLiThanhToanDatVe.resources
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.MyControl.resources
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.Properties.Resources.resources
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.TrangChu.resources
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.sourcelink.json
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.csproj.Up2Date
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.dll
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\refint\Lab04_4.dll
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.pdb
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\Lab04_4.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Lab4_124\Lab04_4\obj\Debug\net8.0-windows\ref\Lab04_4.dll

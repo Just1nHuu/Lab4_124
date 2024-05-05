@@ -29,5 +29,10 @@ namespace Lab04
             response.Close();
             return responseFromServer;
         }
+
+        private void cBai1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

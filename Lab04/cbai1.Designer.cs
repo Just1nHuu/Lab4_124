@@ -75,6 +75,7 @@
             Margin = new Padding(3, 4, 3, 4);
             Name = "cBai1";
             Text = "Bài 1 ";
+            Load += cBai1_Load;
             ResumeLayout(false);
             PerformLayout();
         }

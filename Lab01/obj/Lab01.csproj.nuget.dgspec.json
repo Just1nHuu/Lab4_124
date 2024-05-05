@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Huu Tai\\Desktop\\Lab4_124\\Lab01\\Lab01.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab01\\Lab01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Huu Tai\\Desktop\\Lab4_124\\Lab01\\Lab01.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab01\\Lab01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Huu Tai\\Desktop\\Lab4_124\\Lab01\\Lab01.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab01\\Lab01.csproj",
         "projectName": "Lab01",
-        "projectPath": "C:\\Users\\Huu Tai\\Desktop\\Lab4_124\\Lab01\\Lab01.csproj",
-        "packagesPath": "C:\\Users\\Huu Tai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Huu Tai\\Desktop\\Lab4_124\\Lab01\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab01\\Lab01.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\Lab4_124\\Lab01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Huu Tai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

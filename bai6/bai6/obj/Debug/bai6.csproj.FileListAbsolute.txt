@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\bai6\bai6\bin\Debug\bai6.exe.config
+C:\Users\Admin\source\repos\bai6\bai6\bin\Debug\bai6.exe
+C:\Users\Admin\source\repos\bai6\bai6\bin\Debug\bai6.pdb
+C:\Users\Admin\source\repos\bai6\bai6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\bai6\bai6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\bai6\bai6\obj\Debug\bai6.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\bai6\bai6\obj\Debug\bai6.Form1.resources
+C:\Users\Admin\source\repos\bai6\bai6\obj\Debug\bai6.Properties.Resources.resources
+C:\Users\Admin\source\repos\bai6\bai6\obj\Debug\bai6.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\bai6\bai6\obj\Debug\bai6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bai6\bai6\obj\Debug\bai6.csproj.Up2Date
+C:\Users\Admin\source\repos\bai6\bai6\obj\Debug\bai6.exe
+C:\Users\Admin\source\repos\bai6\bai6\obj\Debug\bai6.pdb

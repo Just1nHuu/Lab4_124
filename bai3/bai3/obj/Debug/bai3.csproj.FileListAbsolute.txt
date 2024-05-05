@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\bai3\bai3\bin\Debug\bai3.exe.config
+C:\Users\Admin\source\repos\bai3\bai3\bin\Debug\bai3.exe
+C:\Users\Admin\source\repos\bai3\bai3\bin\Debug\bai3.pdb
+C:\Users\Admin\source\repos\bai3\bai3\obj\Debug\bai3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\bai3\bai3\obj\Debug\bai3.Properties.Resources.resources
+C:\Users\Admin\source\repos\bai3\bai3\obj\Debug\bai3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\bai3\bai3\obj\Debug\bai3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bai3\bai3\obj\Debug\bai3.exe
+C:\Users\Admin\source\repos\bai3\bai3\obj\Debug\bai3.pdb
+C:\Users\Admin\source\repos\bai3\bai3\obj\Debug\bai3.Form1.resources
